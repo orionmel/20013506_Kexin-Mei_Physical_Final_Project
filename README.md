@@ -1,16 +1,16 @@
 Name Discrimination
 ===================================
 Kexin-Mei_Physical_Final_Project
----------------------------------------------------
 
 Final Artwork Video Link
-==================================
+-----------------------------
 
 Final Project Code Link
-==================================
+------------------------------
+https://github.com/orionmel/20013506_Kexin-Mei_Physical_Final_Project/tree/main/Final%20Code%20%26%20Module%20list%20%26%20circuit%20diagram%20File/Final_Arduino%20_Code
 
 Test Video Link
-==================================
+-------------------------
 Test1: Test the speech recognition module for screen conversion
 ------------------------------------------------
 1. https://vimeo.com/manage/videos/651082793 
