@@ -6,10 +6,19 @@ https://github.com/orionmel/20013506_Kexin-Mei_Physical_Final_Project
 
 Final Artwork Video Link
 -----------------------------
+https://vimeo.com/651573760
+
+Final Artwork Weekly diary PDF
+-----------------------------
+https://github.com/orionmel/20013506_Kexin-Mei_Physical_Final_Project/blob/main/Advanced%20Creative%20Making%20Weekly%20Diary.pdf
 
 Final Project Code Link
 ------------------------------
 https://github.com/orionmel/20013506_Kexin-Mei_Physical_Final_Project/tree/main/Final%20Code%20%26%20Module%20list%20%26%20circuit%20diagram%20File/Final_Arduino%20_Code
+
+Final Project PDF
+------------------------------
+https://github.com/orionmel/20013506_Kexin-Mei_Physical_Final_Project/blob/main/Final%20Project.pdf
 
 Test Video Link
 -------------------------
