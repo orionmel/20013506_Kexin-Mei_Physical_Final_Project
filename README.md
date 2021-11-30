@@ -39,7 +39,7 @@ Difficulties& Improvement:
 2. The light matrix is also more complicated, I need to write the shape I want
 3. I tried soldering for a long time , because i haven’t try this before
 
-The possibility of future projects:
+The Possibility Of Future Projects:
 ==========================================
 1.	Continue to improve the current accessories, because voice input I only stored a few names, I think about whether in the future can be combined with AI database storage
 2.	The sensitivity of speech input needs to be adjusted, and when I tested it, I found that there was an insensitivity problem in the speech module
