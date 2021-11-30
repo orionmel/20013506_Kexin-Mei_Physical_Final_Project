@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<setting>
+  <serial name="PortOne" port = "/dev/cu.BoseSoundSport-SPPDev-2"></serial>
+  <serial name="PortOne" port = "COM25"></serial>
+</setting>
