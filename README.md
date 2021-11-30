@@ -1,6 +1,8 @@
 Name Discrimination
 ===================================
 Kexin-Mei_Physical_Final_Project
+--------------------------------
+https://github.com/orionmel/20013506_Kexin-Mei_Physical_Final_Project
 
 Final Artwork Video Link
 -----------------------------
@@ -18,7 +20,7 @@ Test1: Test the speech recognition module for screen conversion
 
 Test2: Test lights - Test mp3 player
 -----------------------------------------
-1.https://vimeo.com/651086384
+1. https://vimeo.com/651086384
 
 Test3: Test keyboard input, processing screen conversion
 --------------------------------------------------------
